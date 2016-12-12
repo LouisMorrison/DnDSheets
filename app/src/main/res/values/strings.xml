@@ -1,0 +1,86 @@
+<resources>
+    <!-- Default Value Strings (hints) -->
+    <string name="app_name">D&amp;DCharacterApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="cNameDefault">Character</string>
+    <string name="cClassDefault">Class</string>
+    <string name="cLvlDefault">lvl</string>
+    <string name="cBackDefault">Background</string>
+    <string name="cExpDefault">EXP</string>
+    <string name="cRaceDefault">Race</string>
+    <string name="cAlignDefault">Alignment</string>
+    <string name="cRollDefault">roll</string>
+    <string name="cSaveDCDefault">10</string>
+    <string name="cAttackBonusDefault">0</string>
+    <string name="cCastingStatDefault">INT</string>
+    <string name="cStatDefault">10</string>
+    <string name="zeroDefault">0</string>
+
+    <!-- Labels -->
+    <string name="lvlLabel">lvl:</string>
+    <string name="prevBut">Previous</string>
+    <string name="nextBut">Next</string>
+    <string name="diceBut">Dice</string>
+    <string name="mainBut">Main</string>
+    <string name="spellBut">Spells</string>
+    <string name="curRollVal">Cur Roll Val</string>
+    <string name="coinFlip">Coin Flip</string>
+    <string name="fourDie">Roll d4</string>
+    <string name="sixDie">Roll d6</string>
+    <string name="eightDie">Roll d8</string>
+    <string name="tenDie">Roll d10</string>
+    <string name="twelveDie">Roll d12</string>
+    <string name="twentyDie">Roll d20</string>
+    <string name="percentDie">Roll %</string>
+    <string name="saveDC">Save DC</string>
+    <string name="attackBonus">Attack Bonus</string>
+    <string name="castingStat">Casting Stat</string>
+    <string name="preparedLabel">Prepared Spells:</string>
+    <string name="clearLabel">Clear</string>
+    <string name="cantripLabel">Cantrips:</string>
+    <string name="firstlvlLabel">1st Level Spells:</string>
+    <string name="secondlvlLabel">2nd Level Spells:</string>
+    <string name="thirdlvlLabel">3rd Level Spells:</string>
+    <string name="fourthlvlLabel">4th Level Spells:</string>
+    <string name="fifthlvlLabel">5th Level Spells</string>
+    <string name="sixthlvlLabel">6th Level Spells</string>
+    <string name="seventhlvlLabel">7th Level Spells</string>
+    <string name="eigthlvlLabel">8th Level Spells</string>
+    <string name="ninthlvlLabel">9th Level Spells</string>
+    <string name="strength">STR</string>
+    <string name="dexterity">DEX</string>
+    <string name="constitution">CON</string>
+    <string name="intelligence">INT</string>
+    <string name="wisdom">WIS</string>
+    <string name="charisma">CHA</string>
+    <string name="acLabel">Armor Class</string>
+    <string name="profLabel">Proficiency</string>
+    <string name="initLabel">Initiative</string>
+    <string name="speedLabel">Base Speed</string>
+    <string name="hpLabel">HP:</string>
+    <string name="skillLabel">Skills</string>
+    <string name="equipmentLabel">Equipment:</string>
+    <string name="featsLabel">Feats/Abilities:</string>
+    <!-- Skill Label -->
+    <string name="acrobatics">Acrobatics</string>
+    <string name="animalHandling">Animal Handling</string>
+    <string name="arcana">Arcana</string>
+    <string name="athletics">Athletics</string>
+    <string name="deception">Deception</string>
+    <string name="history">History</string>
+    <string name="insight">Insight</string>
+    <string name="intimidation">Intimidation</string>
+    <string name="investigation">Investigation</string>
+    <string name="medicine">Medicine</string>
+    <string name="nature">Nature</string>
+    <string name="perception">Perception</string>
+    <string name="performance">Performance</string>
+    <string name="persuasion">Persuasion</string>
+    <string name="religion">Religion</string>
+    <string name="sleight">Sleight of Hand</string>
+    <string name="stealth">Stealth</string>
+    <string name="survival">Survival</string>
+
+    <!-- shared pref key-->
+    <string name="prepared_key">its_ya_boi_guzma</string>
+</resources>
